@@ -1,0 +1,9 @@
+Script started on 2018-10-16 02:01:13-0400
+]0;christopher@christopher-VirtualBox: ~/school/431/hw3[01;32mchristopher@christopher-VirtualBox[00m:[01;34m~/school/431/hw3[00m$ nano hw2_Q2.c[5P./hw3_Q1gcc -pthread hw2_Q2.c -o hw33_Q1[A]0;christopher@christopher-VirtualBox: ~/school/431/hw3[01;32mchristopher@christopher-VirtualBox[00m:[01;34m~/school/431/hw3[00m$ ./hw3_Q1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+I am Christopher Jacobs, the current time is Tue Oct 16 02:01:19 2018
+Threads 1 and 2 are the winner!
+]0;christopher@christopher-VirtualBox: ~/school/431/hw3[01;32mchristopher@christopher-VirtualBox[00m:[01;34m~/school/431/hw3[00m$ exit
+exit
+
+Script done on 2018-10-16 02:01:25-0400
